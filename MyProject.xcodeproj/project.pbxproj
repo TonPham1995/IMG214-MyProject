@@ -13,6 +13,9 @@
 		A04FE5DD2432EE0900DC4FAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A04FE5DB2432EE0900DC4FAD /* Main.storyboard */; };
 		A04FE5DF2432EE0C00DC4FAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A04FE5DE2432EE0C00DC4FAD /* Assets.xcassets */; };
 		A04FE5E22432EE0C00DC4FAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A04FE5E02432EE0C00DC4FAD /* LaunchScreen.storyboard */; };
+		A04FE5EA2432EF8200DC4FAD /* VideoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5E92432EF8200DC4FAD /* VideoTableViewCell.swift */; };
+		A04FE5EC2432EFC000DC4FAD /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5EB2432EFC000DC4FAD /* VideoViewController.swift */; };
+		A04FE5EE2432F00500DC4FAD /* YoutubeVideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		A04FE5DE2432EE0C00DC4FAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A04FE5E12432EE0C00DC4FAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A04FE5E32432EE0C00DC4FAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A04FE5E92432EF8200DC4FAD /* VideoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTableViewCell.swift; sourceTree = "<group>"; };
+		A04FE5EB2432EFC000DC4FAD /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
+		A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeVideoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				A04FE5DE2432EE0C00DC4FAD /* Assets.xcassets */,
 				A04FE5E02432EE0C00DC4FAD /* LaunchScreen.storyboard */,
 				A04FE5E32432EE0C00DC4FAD /* Info.plist */,
+				A04FE5E92432EF8200DC4FAD /* VideoTableViewCell.swift */,
+				A04FE5EB2432EFC000DC4FAD /* VideoViewController.swift */,
+				A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */,
 			);
 			path = MyProject;
 			sourceTree = "<group>";
@@ -138,8 +147,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A04FE5EE2432F00500DC4FAD /* YoutubeVideoViewController.swift in Sources */,
 				A04FE5DA2432EE0900DC4FAD /* ViewController.swift in Sources */,
+				A04FE5EA2432EF8200DC4FAD /* VideoTableViewCell.swift in Sources */,
 				A04FE5D62432EE0900DC4FAD /* AppDelegate.swift in Sources */,
+				A04FE5EC2432EFC000DC4FAD /* VideoViewController.swift in Sources */,
 				A04FE5D82432EE0900DC4FAD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
