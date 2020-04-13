@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A0068B36244429C100062D27 /* ChampionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0068B35244429C100062D27 /* ChampionModel.swift */; };
+		A0068B3824442B2A00062D27 /* SingleCellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0068B3724442B2A00062D27 /* SingleCellView.swift */; };
 		A04FE5D62432EE0900DC4FAD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5D52432EE0900DC4FAD /* AppDelegate.swift */; };
 		A04FE5D82432EE0900DC4FAD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5D72432EE0900DC4FAD /* SceneDelegate.swift */; };
 		A04FE5DA2432EE0900DC4FAD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5D92432EE0900DC4FAD /* ViewController.swift */; };
@@ -19,6 +21,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A0068B35244429C100062D27 /* ChampionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChampionModel.swift; sourceTree = "<group>"; };
+		A0068B3724442B2A00062D27 /* SingleCellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleCellView.swift; sourceTree = "<group>"; };
 		A04FE5D22432EE0900DC4FAD /* MyProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A04FE5D52432EE0900DC4FAD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A04FE5D72432EE0900DC4FAD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +76,8 @@
 				A04FE5E92432EF8200DC4FAD /* VideoTableViewCell.swift */,
 				A04FE5EB2432EFC000DC4FAD /* VideoViewController.swift */,
 				A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */,
+				A0068B35244429C100062D27 /* ChampionModel.swift */,
+				A0068B3724442B2A00062D27 /* SingleCellView.swift */,
 			);
 			path = MyProject;
 			sourceTree = "<group>";
@@ -151,6 +157,8 @@
 				A04FE5DA2432EE0900DC4FAD /* ViewController.swift in Sources */,
 				A04FE5EA2432EF8200DC4FAD /* VideoTableViewCell.swift in Sources */,
 				A04FE5D62432EE0900DC4FAD /* AppDelegate.swift in Sources */,
+				A0068B3824442B2A00062D27 /* SingleCellView.swift in Sources */,
+				A0068B36244429C100062D27 /* ChampionModel.swift in Sources */,
 				A04FE5EC2432EFC000DC4FAD /* VideoViewController.swift in Sources */,
 				A04FE5D82432EE0900DC4FAD /* SceneDelegate.swift in Sources */,
 			);
