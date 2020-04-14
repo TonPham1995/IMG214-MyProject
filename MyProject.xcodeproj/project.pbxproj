@@ -18,6 +18,7 @@
 		A04FE5EA2432EF8200DC4FAD /* VideoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5E92432EF8200DC4FAD /* VideoTableViewCell.swift */; };
 		A04FE5EC2432EFC000DC4FAD /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5EB2432EFC000DC4FAD /* VideoViewController.swift */; };
 		A04FE5EE2432F00500DC4FAD /* YoutubeVideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */; };
+		A067921124466415005D148B /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A067921024466415005D148B /* SearchBarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		A04FE5E92432EF8200DC4FAD /* VideoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoTableViewCell.swift; sourceTree = "<group>"; };
 		A04FE5EB2432EFC000DC4FAD /* VideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
 		A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeVideoViewController.swift; sourceTree = "<group>"; };
+		A067921024466415005D148B /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				A04FE5ED2432F00500DC4FAD /* YoutubeVideoViewController.swift */,
 				A0068B35244429C100062D27 /* ChampionModel.swift */,
 				A0068B3724442B2A00062D27 /* SingleCellView.swift */,
+				A067921024466415005D148B /* SearchBarView.swift */,
 			);
 			path = MyProject;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A04FE5EE2432F00500DC4FAD /* YoutubeVideoViewController.swift in Sources */,
+				A067921124466415005D148B /* SearchBarView.swift in Sources */,
 				A04FE5DA2432EE0900DC4FAD /* ViewController.swift in Sources */,
 				A04FE5EA2432EF8200DC4FAD /* VideoTableViewCell.swift in Sources */,
 				A04FE5D62432EE0900DC4FAD /* AppDelegate.swift in Sources */,
