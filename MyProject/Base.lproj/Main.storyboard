@@ -123,7 +123,7 @@
                     </tabBar>
                     <connections>
                         <segue destination="ufO-XL-1vu" kind="relationship" relationship="viewControllers" id="3tH-gd-q4D"/>
-                        <segue destination="XoP-Ka-Iok" kind="relationship" relationship="viewControllers" id="seH-Xy-TqM"/>
+                        <segue destination="XoP-Ka-Iok" kind="relationship" relationship="viewControllers" id="xaX-nc-JIh"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="C79-7r-0eD" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -198,11 +198,11 @@
             </objects>
             <point key="canvasLocation" x="-1802.4000000000001" y="94.902548725637189"/>
         </scene>
-        <!--Videos-->
+        <!--Fun-->
         <scene sceneID="D5W-zZ-oQo">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="XoP-Ka-Iok" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Videos" springLoaded="YES" id="ym1-R4-TGR"/>
+                    <tabBarItem key="tabBarItem" title="Fun" selectedImage="amumu_icon" springLoaded="YES" id="ym1-R4-TGR"/>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" id="re0-NB-KKV"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="PKf-BJ-X1r">
@@ -220,6 +220,7 @@
         </scene>
     </scenes>
     <resources>
+        <image name="amumu_icon" width="120" height="120"/>
         <image name="image2" width="1200" height="658"/>
     </resources>
 </document>
